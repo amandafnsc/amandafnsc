@@ -1,1 +1,1 @@
-![Banner da Amanda Coelho](./Banner.png)
+![Banner da Amanda Coelho](./banner.png)
