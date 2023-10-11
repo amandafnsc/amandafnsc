@@ -3,6 +3,7 @@
 ## oiee, eu sou a Amanda!
 
 Estudo atualmente Sistemas e Mídias Digitais na Universidade Federal do Ceará (UFC)
+
 Focando em projetos relacionados a inovações tecnológicas, especialmente em softwares como Unreal Engine para o desenvolvimento de jogos e audiovisual.
 
 Contato: __amandacoelho08.ac@gmail.com__
