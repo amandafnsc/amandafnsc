@@ -6,6 +6,8 @@ Estudo atualmente Sistemas e Mídias Digitais na Universidade Federal do Ceará 
 
 Focando em projetos relacionados a inovações tecnológicas, especialmente em softwares como Unreal Engine para o desenvolvimento de jogos e audiovisual.
 
+Contato: amandacoelho08.ac@gmail.com
+
 <div align="left">
   <a href="https://www.behance.net/amandaco3lho" target="_blank">
     <img src="https://img.shields.io/badge/Behance-7C97B6?style=for-the-badge&logo=behance&labelColor=7C97B6"/>
@@ -16,12 +18,9 @@ Focando em projetos relacionados a inovações tecnológicas, especialmente em s
   <a href="https://www.instagram.com/amanda_fc2/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-7C97B6?style=for-the-badge&logo=instagram&logoColor=FFF&labelColor=7C97B6"/>
   </a>
-  <a href="mailto:amandacoelho08.ac@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-7C97B6?style=for-the-badge&logo=gmail&logoColor=FFF&labelColor=7C97B6"/>
-  </a>
 </div>
 
-## habilidades e softwares ✒️
+### habilidades e softwares ✒️
 
 <div align="left">
   <a href="https://www.unrealengine.com/en-US" target="_blank">
